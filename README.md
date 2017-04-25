@@ -17,3 +17,4 @@
 * [How to play train rhythms on harmonica](https://www.youtube.com/watch?v=M6rhk0aFILU&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp&index=6)
 * [How to play 'Oh Susanna' on harmonica (beginner lesson)](https://www.youtube.com/watch?v=4hnz9O-0uQ8&index=7&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp)
 * ['Happy Birthday to You' harmonica lesson: How to play 'Happy Birthday to You' on C harmonica](https://www.youtube.com/watch?v=awy-UZIKQpw&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp&index=8)
+* [How to play single notes on the harmonica (C harmonica needed)](https://www.youtube.com/watch?v=YkEfzb-3pIM&index=9&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp)
