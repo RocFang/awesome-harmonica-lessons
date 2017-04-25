@@ -19,3 +19,4 @@
 * ['Happy Birthday to You' harmonica lesson: How to play 'Happy Birthday to You' on C harmonica](https://www.youtube.com/watch?v=awy-UZIKQpw&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp&index=8)
 * [How to play single notes on the harmonica (C harmonica needed)](https://www.youtube.com/watch?v=YkEfzb-3pIM&index=9&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp)
 * [What brand/key/kind of harmonica should I buy?](https://www.youtube.com/watch?v=vuajLny-rIE&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp&index=10)
+* [Hand articulation/wah-wah on harmonica (Make your harmonica speak!)](https://www.youtube.com/watch?v=SN_TK5p8pRQ&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp&index=11)
