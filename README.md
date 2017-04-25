@@ -15,3 +15,4 @@
 * [How to Play Neil Young's 'Heart of Gold' Harmonica Solos](https://www.youtube.com/watch?v=HgGoPxJljao&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp&index=4)
 * [How to play 'Hey Jude' by the Beatles on harmonica](https://www.youtube.com/watch?v=J-YmxK4wm-o&index=5&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp)
 * [How to play train rhythms on harmonica](https://www.youtube.com/watch?v=M6rhk0aFILU&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp&index=6)
+* [How to play 'Oh Susanna' on harmonica (beginner lesson)](https://www.youtube.com/watch?v=4hnz9O-0uQ8&index=7&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp)
