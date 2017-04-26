@@ -26,3 +26,4 @@
 * [Good posture for Harmonica Players (Two Minute Tips #5)](https://www.youtube.com/watch?v=lp0wwrurWmY&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp&index=15)
 * [How to Keep Breathing on Harmonica (Two Minute Tips #8)](https://www.youtube.com/watch?v=dEI1bmmPGbQ&index=16&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp)
 * [Warning: Harmonica is Hard! (Two Minute Tips #10)](https://www.youtube.com/watch?v=9GuFPgyNKFc&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp&index=17)
+* [Blowin' in the Wind (Saturday Song Study #1)](https://www.youtube.com/watch?v=mMbyL7ObxcU&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp&index=18)
