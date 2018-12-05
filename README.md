@@ -11,7 +11,9 @@
 * [视频列表总入口](https://www.youtube.com/playlist?list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp)
 * 视频各分集地址及内容简介
   * [Top 5 Tips For Beginner Harmonica Players](https://www.youtube.com/watch?v=Qld7XBdsRyU) - 布鲁斯口琴新手的五个最重要的技巧: 学会呼吸、多听其他人演奏的口琴、多听其他乐器的演奏、学习一点乐理、耐心
-  * [How to hold the harmonica](https://www.youtube.com/watch?v=GmcHnx7d1g0)
+  * [How to hold the harmonica](https://www.youtube.com/watch?v=GmcHnx7d1g0) - 如何持琴
+  * [How to play single notes on the harmonica (C harmonica needed)](https://www.youtube.com/watch?v=YkEfzb-3pIM) - 单音
+  * [When the Saints Go Marching In harmonica lesson (Louis Armstrong) on C diatonic blues harmonica](https://www.youtube.com/watch?v=HBB2ijN4p3g) - 练习曲《When the Saints Go Marching In》
   * [How to play warbles/trills on the harmonica](https://www.youtube.com/watch?v=BtQ-9a67nfA)
   * [2 draw vs. 3 blow on harmonica](https://www.youtube.com/watch?v=bM50EjhoJqo)
   * [How to Play Neil Young's 'Heart of Gold' Harmonica Solos](https://www.youtube.com/watch?v=HgGoPxJljao&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp&index=4)
@@ -19,7 +21,6 @@
   * [How to play train rhythms on harmonica](https://www.youtube.com/watch?v=M6rhk0aFILU&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp&index=6)
   * [How to play 'Oh Susanna' on harmonica (beginner lesson)](https://www.youtube.com/watch?v=4hnz9O-0uQ8&index=7&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp)
   * ['Happy Birthday to You' harmonica lesson: How to play 'Happy Birthday to You' on C harmonica](https://www.youtube.com/watch?v=awy-UZIKQpw&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp&index=8)
-  * [How to play single notes on the harmonica (C harmonica needed)](https://www.youtube.com/watch?v=YkEfzb-3pIM&index=9&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp)
   * [What brand/key/kind of harmonica should I buy?](https://www.youtube.com/watch?v=vuajLny-rIE&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp&index=10)
   * [Hand articulation/wah-wah on harmonica (Make your harmonica speak!)](https://www.youtube.com/watch?v=SN_TK5p8pRQ&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp&index=11)
   * [Getting a Great 2 Draw (Two Minute Tips #1)](https://www.youtube.com/watch?v=B9ro0V-jnH0&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp&index=12)
