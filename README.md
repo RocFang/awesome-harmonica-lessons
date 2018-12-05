@@ -15,12 +15,13 @@
   * [How to play single notes on the harmonica (C harmonica needed)](https://www.youtube.com/watch?v=YkEfzb-3pIM) - 单音
   * [When the Saints Go Marching In harmonica lesson (Louis Armstrong) on C diatonic blues harmonica](https://www.youtube.com/watch?v=HBB2ijN4p3g) - 练习曲《When the Saints Go Marching In》
   * [What brand/key/kind of harmonica should I buy?](https://www.youtube.com/watch?v=vuajLny-rIE) - 关于初学者购琴的建议
+  * [How to play 'Oh Susanna' on harmonica (beginner lesson)](https://www.youtube.com/watch?v=4hnz9O-0uQ8) - 练习曲《噢苏珊娜》
+  * [How to Play Neil Young's 'Heart of Gold' Harmonica Solos](https://www.youtube.com/watch?v=HgGoPxJljao) - 练习曲《Heart of Gold》
+  * [Warning: Harmonica is Hard! (Two Minute Tips #10)](https://www.youtube.com/watch?v=9GuFPgyNKFc) - 提高思想认识: 学习口琴并不是一件简单的事
   * [How to play warbles/trills on the harmonica](https://www.youtube.com/watch?v=BtQ-9a67nfA)
   * [2 draw vs. 3 blow on harmonica](https://www.youtube.com/watch?v=bM50EjhoJqo)
-  * [How to Play Neil Young's 'Heart of Gold' Harmonica Solos](https://www.youtube.com/watch?v=HgGoPxJljao&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp&index=4)
   * [How to play 'Hey Jude' by the Beatles on harmonica](https://www.youtube.com/watch?v=J-YmxK4wm-o&index=5&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp)
   * [How to play train rhythms on harmonica](https://www.youtube.com/watch?v=M6rhk0aFILU&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp&index=6)
-  * [How to play 'Oh Susanna' on harmonica (beginner lesson)](https://www.youtube.com/watch?v=4hnz9O-0uQ8&index=7&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp)
   * ['Happy Birthday to You' harmonica lesson: How to play 'Happy Birthday to You' on C harmonica](https://www.youtube.com/watch?v=awy-UZIKQpw&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp&index=8)
   * [Hand articulation/wah-wah on harmonica (Make your harmonica speak!)](https://www.youtube.com/watch?v=SN_TK5p8pRQ&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp&index=11)
   * [Getting a Great 2 Draw (Two Minute Tips #1)](https://www.youtube.com/watch?v=B9ro0V-jnH0&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp&index=12)
@@ -28,5 +29,4 @@
   * [Note layout of harmonica (Two Minute Tips #3)](https://www.youtube.com/watch?v=u8S166FhvVQ&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp&index=14)
   * [Good posture for Harmonica Players (Two Minute Tips #5)](https://www.youtube.com/watch?v=lp0wwrurWmY&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp&index=15)
   * [How to Keep Breathing on Harmonica (Two Minute Tips #8)](https://www.youtube.com/watch?v=dEI1bmmPGbQ&index=16&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp)
-  * [Warning: Harmonica is Hard! (Two Minute Tips #10)](https://www.youtube.com/watch?v=9GuFPgyNKFc&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp&index=17)
   * [Blowin' in the Wind (Saturday Song Study #1)](https://www.youtube.com/watch?v=mMbyL7ObxcU&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp&index=18)
