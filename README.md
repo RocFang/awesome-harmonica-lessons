@@ -2,11 +2,14 @@
 
 我个人比较喜欢吹口琴，而互联网上散布各处的youtube资料浩如烟海，有必要收集一下。说到收集，就必须要有一个标准，否则按照程序员的习惯性做法，写一个爬虫在youtube上爬一下就能爬到海量的资源，但这样如此对于提升口琴技术水平并没有多大的实际意义。目前这个标准就是，这里列出的资料我都自己看过一遍，并且觉得质量还不错的。如果碰巧你也喜欢口琴并且有觉得不错的资源，欢迎推荐。
 
-# 资源
+# 内容 
 
-## 视频资源
+- [Beginner harmonica lessons By Liam Ward](#beginner-harmonica-lessons-by-liam-ward)
 
-### Liam Ward
+## Beginner harmonica lessons By Liam Ward
+
+* [whole playlsit](https://www.youtube.com/watch?v=GmcHnx7d1g0&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp)
+
 
 #### [Beginner harmonica lessons](https://www.youtube.com/watch?v=GmcHnx7d1g0&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp)
 * [How to hold the harmonica](https://www.youtube.com/watch?v=GmcHnx7d1g0)
