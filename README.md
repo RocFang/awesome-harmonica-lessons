@@ -8,8 +8,9 @@
 
 ## Beginner harmonica lessons By Liam Ward
 
-* [视频列表总入口](https://www.youtube.com/watch?v=GmcHnx7d1g0&list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp)
+* [视频列表总入口](https://www.youtube.com/playlist?list=PLKONji9dlomQtLpyMM4vT9K1mx_jUNxLp)
 * 视频各分集地址及内容简介
+  * [Top 5 Tips For Beginner Harmonica Players](https://www.youtube.com/watch?v=Qld7XBdsRyU) - 布鲁斯口琴新手的五个最重要的技巧: 学会呼吸、多听其他人演奏的口琴、多听其他乐器的演奏、学习一点乐理、耐心
   * [How to hold the harmonica](https://www.youtube.com/watch?v=GmcHnx7d1g0)
   * [How to play warbles/trills on the harmonica](https://www.youtube.com/watch?v=BtQ-9a67nfA)
   * [2 draw vs. 3 blow on harmonica](https://www.youtube.com/watch?v=bM50EjhoJqo)
