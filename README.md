@@ -36,4 +36,7 @@
   * [Bending for beginners (Harmonica Q&A Live)](https://www.youtube.com/watch?v=UANJ8OZPOP0) - 初学者如何学习压音
   * [The six harmonica keys you need (Harmonica Q&A Live)](https://www.youtube.com/watch?v=z4z8utmByis) - 常见的调式
   * [Warbles/trills - move head or harp? (Harmonica Q&A Live)](https://www.youtube.com/watch?v=_8VyEkviNxM) - 颤音:动头还是动手?
+  * [Holding the harmonica and microphone (Harmonica Q&A Live)](https://www.youtube.com/watch?v=jIsKAs-66aQ) - 如何使用麦克风
+  * [How to clean a harmonica (Harmonica Q&A Live)](https://www.youtube.com/watch?v=b_F8x0vRlAA) - 如何清洗口琴
+  * [What is a 12 bar blues? (Harmonica Q&A Live)](https://www.youtube.com/watch?v=Ss4Xk5TIhVM) - 什么是12小节布鲁斯
   * [How to play warbles/trills on the harmonica](https://www.youtube.com/watch?v=BtQ-9a67nfA)
