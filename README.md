@@ -38,5 +38,6 @@
   * [Warbles/trills - move head or harp? (Harmonica Q&A Live)](https://www.youtube.com/watch?v=_8VyEkviNxM) - 颤音:动头还是动手?
   * [Holding the harmonica and microphone (Harmonica Q&A Live)](https://www.youtube.com/watch?v=jIsKAs-66aQ) - 如何使用麦克风
   * [How to clean a harmonica (Harmonica Q&A Live)](https://www.youtube.com/watch?v=b_F8x0vRlAA) - 如何清洗口琴
-  * [What is a 12 bar blues? (Harmonica Q&A Live)](https://www.youtube.com/watch?v=Ss4Xk5TIhVM) - 什么是12小节布鲁斯
-  * [How to play warbles/trills on the harmonica](https://www.youtube.com/watch?v=BtQ-9a67nfA)
+  * [What is a 12 bar blues? (Harmonica Q&A Live)](https://www.youtube.com/watch?v=Ss4Xk5TIhVM) - 什么是12小节布鲁斯(简单QA)
+  * [Silent Night](https://www.youtube.com/watch?v=T5s_N_9pfsc) - 练习曲《silent night》
+  * [My Girl](https://www.youtube.com/watch?v=ayZXQSf6fXo) - 练习曲《My Girl》
